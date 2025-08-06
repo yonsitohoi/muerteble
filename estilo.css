@@ -24,3 +24,10 @@ img {
 
 }
 
+.bloque-centro {
+  background-color: #e0feff;      /* Color del centro */
+  margin: 0 auto;
+  padding: 30px;
+  max-width: 800px;            /* Ajusta el ancho */
+  border-radius: 20px;
+}

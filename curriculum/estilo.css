@@ -1,0 +1,23 @@
+body {
+  background-color: #89d6ff;
+  font-family: Verdana;
+  padding: 20px;
+  padding-left: 10%;
+}
+
+h1 {
+  color: rgb(0, 0, 27);
+  font: size 50px; 
+}
+
+p {
+  color: #333;
+  font-size: 18px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 3px solid #3f193f;
+}
